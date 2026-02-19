@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Maytus&fontSize=80&desc=Game%20Developer%20-%20Front-End%20Developer&descSize=25&descAlignVertical=75" />
+</div>
+<div align="center">
+  <h1>Hi👋 I'm <b>Maytus</b></h1>
+</div>
 
-<!--
-**WaiRuneMEKA/WaiRuneMEKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About me
+I'm an aspiring developer passionate about learning new technologies and building cool projects.
 
-Here are some ideas to get you started:
+- 🔭 Based in Thailand
+- 🎓 Computer Science student at Kasetsart University
+- 🧠 Learning Front-End, Back-End, AI and Fina
+- 🫩 Experience in Unity Game Dev, Software and Hackathon competitions
+- 🐦‍🔥 Always ready to learn and collaborate on interesting projects.
+- ⌨️ Currently focusing on Mobile Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skill
+
+## 🌏 Contact
