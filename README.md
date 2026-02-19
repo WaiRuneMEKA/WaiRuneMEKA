@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Maytus&fontSize=65&fontAlignY=30&desc=Game%20Developer%20-%20Front-End%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Maytus&fontSize=65&fontAlignY=30&desc=Game%20Developer%20and%20Front-End%20Developer&descSize=18&descAlignY=55" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C++%F0%9F%91%8BI'm+Maytus;Computer+Science+@+Kasetsart+University;Front-End+%C3%97+Game-Dev" alt="Typing SVG" />
