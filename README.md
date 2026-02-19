@@ -5,18 +5,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C++%F0%9F%91%8BI'm+Maytus;Computer+Science+@+Kasetsart+University;Front-End+%C3%97+Game-Dev" alt="Typing SVG" />
 </div>
 
-## 🧑‍💻 About me
-I'm an aspiring developer passionate about learning new technologies and building cool projects.
+<div align="center">
+  <h2>🧑‍💻 About me</h2>
+  <p><b>I'm an aspiring developer</b> passionate about learning new technologies and building cool projects.</p>
 
-- 🔭 Based in Thailand
-- 🎓 Computer Science student at Kasetsart University
-- 🧠 Learning Front-End, Back-End, AI and Crypto Currency 
-- 🫩 Experience in Unity Game Dev, Software and Hackathon competitions
-- 🐦‍🔥 Always ready to learn and collaborate on interesting projects.
-- ⌨️ Currently focusing on Mobile Application
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔭 <b>Based in:</b> Thailand</li>
+          <li>🎓 <b>Student:</b> Computer Science @ Kasetsart University</li>
+          <li>🧠 <b>Learning:</b> Front-End, Back-End, AI, and Cryptocurrency</li>
+          <li>🫩 <b>Experience:</b> Unity Game Dev, Software & Hackathon competitions</li>
+          <li>🐦‍🔥 <b>Mindset:</b> Always ready to learn and collaborate on interesting projects</li>
+          <li>⌨️ <b>Current focus:</b> Mobile Application</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 💻 Skill
+<br/><br/>
+
 <table align="center">
+  <div align="center">
+    <h2>💻 Skill</h2>
+  </div>  
   <tr>
     <td align="center" width="900">
       <h3>Programming Languages</h3>
@@ -81,26 +95,23 @@ I'm an aspiring developer passionate about learning new technologies and buildin
   </tr>
 </table>
 
+<br/><br/>
 
-## 🌏 Contact
 <div align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="">
+  <div align="center">
+    <h2>🌏 Contact</h2>
+  </div>
+  <a href="https://www.facebook.com/tas.me.tas.kay.y">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://github.com/WaiRuneMEKA">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/its_maytus/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://x.com/mhud_hod">
     <img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 </div>
 
@@ -108,7 +119,7 @@ I'm an aspiring developer passionate about learning new technologies and buildin
 
 <div align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/maytusgaye%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
