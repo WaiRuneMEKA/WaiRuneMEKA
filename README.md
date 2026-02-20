@@ -15,7 +15,7 @@
         <ul>
           <li>🔭 <b>Based in:</b> Thailand</li>
           <li>🎓 <b>Student:</b> Computer Science @ Kasetsart University</li>
-          <li>🧠 <b>Learning:</b> Front-End, Back-End, AI, and Cryptocurrency</li>
+          <li>🧠 <b>Learning:</b> Front-End, Back-End and Cryptocurrency</li>
           <li>🫩 <b>Experience:</b> Unity Game Dev, Software & Hackathon competitions</li>
           <li>🐦‍🔥 <b>Mindset:</b> Always ready to learn and collaborate on interesting projects</li>
           <li>⌨️ <b>Current focus:</b> Mobile Application</li>
